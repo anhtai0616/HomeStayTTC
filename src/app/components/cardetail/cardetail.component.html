@@ -1,0 +1,44 @@
+<div class="row">
+    <div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+
+
+
+        <img src="{{image}}" alt="">
+        <h3>{{name}}</h3>
+        <p><b>Mô tả: </b>{{Mota}}</p>
+        <p><b>Maxspeed: </b>{{Maxspeed}}</p>
+        <p><b>Gia: </b>{{Gia}} VNĐ</p>
+    </div>
+    <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
+        <div class="form">
+            <h2>Đặt ngay</h2>
+            
+            <form action="">
+                    <span>{{mes}}</span>
+                    <h4>Tên:</h4>
+                    <input type="text" name="email" placeholder="Trần Văn A" [(ngModel)]="ten" required>
+                    
+                    <h4>Email:</h4>
+                <input type="text" name="email" placeholder="@mail.com" [(ngModel)]="email" required>
+                
+                <h4>Địa chỉ</h4>
+                <input type="text" name="adress" placeholder="Tỉnh - Thành phố" [(ngModel)]="diachi" required>
+                
+                <h4>SĐT</h4>
+                <input type="text" name="phone" placeholder="Phone" [(ngModel)]="phone" required>
+                
+                <h4>Số ngày thuê</h4>
+                <input type="text" name="day" (keyup)="onKeyUp($event)" [(ngModel)]="day">
+                
+                <br>
+                <h4>Thành tiền: {{thanhtien}}VNĐ</h4>
+                
+                <input type="submit" class="btn" (click)="onClick($even)" value="Thuê xe">
+                <p>{{thanks}}</p>
+            
+            </form>
+
+        </div>
+    </div>
+
+</div>

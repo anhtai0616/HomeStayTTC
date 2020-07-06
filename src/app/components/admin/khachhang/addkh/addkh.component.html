@@ -1,0 +1,23 @@
+<form action="" method="POST" role="form">
+    <legend>Add Khach Hang</legend>
+    <div class="form-group">
+        <label for="">Name</label>
+        <input type="text" class="form-control" [(ngModel)]="kh.name" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+        <label for="">Adress</label>
+        <textarea class="form-control" rows="3" [(ngModel)]="kh.adress" [ngModelOptions]="{standalone: true}"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="">Email</label>
+        <input type="email" class="form-control" [(ngModel)]="kh.email" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+        <label for="">Price</label>
+        <input type="number" class="form-control" [(ngModel)]="kh.monney" [ngModelOptions]="{standalone: true}">
+    </div>
+    
+    <button type="button" class="btn btn-primary" (click)="onAddKH()">SAVE</button>
+    
+
+</form>

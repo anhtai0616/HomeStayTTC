@@ -1,0 +1,27 @@
+<form action="" method="POST" role="form">
+    <legend>Add Xe</legend>
+    <div class="form-group">
+        <label for="">Name</label>
+        <input type="text" class="form-control" [(ngModel)]="car.name" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+        <label for="">Describe</label>
+        <input type="text" class="form-control" [(ngModel)]="car.Mota" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+        <label for="">Maxspeed</label>
+        <textarea class="form-control" rows="3" [(ngModel)]="car.Maxspeed" [ngModelOptions]="{standalone: true}"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="">Price</label>
+        <input type="number" class="form-control" [(ngModel)]="car.Gia" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+        <label for="">Image</label>
+        <input type="text" class="form-control" [(ngModel)]="car.image" [ngModelOptions]="{standalone: true}">
+    </div>
+    
+    <button type="button" class="btn btn-primary" (click)="onAddXe()">SAVE</button>
+    
+
+</form>

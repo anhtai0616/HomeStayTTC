@@ -1,0 +1,11 @@
+.logo{
+    float: left;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+.row{
+    background-color: lavender;
+}
+.container{
+    margin-top: 25px;
+}

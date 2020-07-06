@@ -1,0 +1,260 @@
+{
+  "homestay": [
+    {
+      "id": 1,
+      "name": "Home Đà Lạt",
+      "adress": "01-CMT8-Đà Lạt",
+      "Dientich": "65m2",
+      "Mota": "Nguyên căn, 2 phòng tắm, 2 giường, 2 phòng ngủ",
+      "Gioithieu": "Được xây dựng theo tiêu chuẩn 5 sao nằm bên bờ biển Mỹ Khê xinh đẹp, sẽ mang đến cho du khách...",
+      "Gia": 1500000,
+      "Loaihomestay": "Vip",
+      "image": "https://www.vntrip.vn/cam-nang/wp-content/uploads/2018/06/homestay-sapa-viettrekking-5-e1528870114430.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Home Đà Nẵng",
+      "adress": "01-CMT8-Đà Nẵng",
+      "Dientich": "65m2",
+      "Mota": "Nguyên căn, 2 phòng tắm, 2 giường, 2 phòng ngủ",
+      "Gioithieu": "Được xây dựng theo tiêu chuẩn 5 sao nằm bên bờ biển Mỹ Khê xinh đẹp, sẽ mang đến cho du khách...",
+      "Gia": 1400000,
+      "Loaihomestay": "Vip",
+      "image": "https://cdn3.ivivu.com/2019/05/lac-thon-homestay-ivivu-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Home Hà Nội",
+      "adress": "01-CMT8-Hà Nội",
+      "Dientich": "65m2",
+      "Mota": "Nguyên căn, 2 phòng tắm, 2 giường, 2 phòng ngủ",
+      "Gioithieu": "Được xây dựng theo tiêu chuẩn 5 sao nằm bên bờ biển Mỹ Khê xinh đẹp, sẽ mang đến cho du khách...",
+      "Gia": 1500000,
+      "Loaihomestay": "Vip",
+      "image": "https://kenhhomestay.com/wp-content/uploads/2018/08/homestay-dong-hoi-quang-binh.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Home Hạ Long",
+      "adress": "01-CMT8-Hạ Long",
+      "Dientich": "65m2",
+      "Mota": "Nguyên căn, 2 phòng tắm, 2 giường, 2 phòng ngủ",
+      "Gioithieu": "Được xây dựng theo tiêu chuẩn 5 sao nằm bên bờ biển Mỹ Khê xinh đẹp, sẽ mang đến cho du khách...",
+      "Gia": 1500000,
+      "Loaihomestay": "Vip",
+      "image": "https://q-ec.bstatic.com/images/hotel/max1024x768/142/142678880.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Home Hội An",
+      "adress": "01-CMT8-Hội An",
+      "Dientich": "65m2",
+      "Mota": "Nguyên căn, 2 phòng tắm, 2 giường, 2 phòng ngủ",
+      "Gioithieu": "Được xây dựng theo tiêu chuẩn 5 sao nằm bên bờ biển Mỹ Khê xinh đẹp, sẽ mang đến cho du khách...",
+      "Gia": 1500000,
+      "Loaihomestay": "Vip",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/f3/d4/c1/nu-ni-homestay.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Home Phan Thiết",
+      "adress": "01-CMT8-Phan Thiết",
+      "Dientich": "65m2",
+      "Mota": "Nguyên căn, 2 phòng tắm, 2 giường, 2 phòng ngủ",
+      "Gioithieu": "Được xây dựng theo tiêu chuẩn 5 sao nằm bên bờ biển Mỹ Khê xinh đẹp, sẽ mang đến cho du khách...",
+      "Gia": 1500000,
+      "Loaihomestay": "Vip",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/f3/d4/c1/nu-ni-homestay.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Home Sơn La",
+      "adress": "01-CMT8-Sơn La",
+      "Dientich": "65m2",
+      "Mota": "Nguyên căn, 2 phòng tắm, 2 giường, 2 phòng ngủ",
+      "Gioithieu": "Được xây dựng theo tiêu chuẩn 5 sao nằm bên bờ biển Mỹ Khê xinh đẹp, sẽ mang đến cho du khách...",
+      "Gia": 1500000,
+      "Loaihomestay": "Vip",
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/04/Gitanjali-Homestay-mysore-kb6592.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Home Hà Giang",
+      "adress": "01-CMT8-Bắc Hà",
+      "Dientich": "65m2",
+      "Mota": "Nguyên căn, 2 phòng tắm, 2 giường, 2 phòng ngủ",
+      "Gioithieu": "Được xây dựng theo tiêu chuẩn 5 sao nằm bên bờ biển Mỹ Khê xinh đẹp, sẽ mang đến cho du khách...",
+      "Gia": 1500000,
+      "Loaihomestay": "Vip",
+      "image": "https://dulichtoday.vn/wp-content/uploads/2018/04/Hygge-homestay.jpg"
+    },
+    {
+      "name": "phong edita",
+      "adress": "a",
+      "Dientich": "a",
+      "Mota": "a",
+      "Gioithieu": "a",
+      "Gia": 1,
+      "Loaihomestay": "a",
+      "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/174/174379346.jpg",
+      "id": 9
+    }
+  ],
+  "buffcar": [
+    {
+      "id": 1,
+      "name": "Lamboghini",
+      "Mota": "Supper car",
+      "Maxspeed": "340km/h",
+      "Gia": 5000000,
+      "image": "https://cdn.shopify.com/s/files/1/0043/8471/8938/products/155613364003514899.jpg?v=1565119707"
+    },
+    {
+      "id": 2,
+      "name": "R1M",
+      "Mota": "Sport Bike",
+      "Maxspeed": "340km/h",
+      "Gia": 3000000,
+      "image": "https://www.scalemates.com/products/img/0/8/8/1136088-27767-62-pristine.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bugatti Chiron",
+      "Mota": "Supper car",
+      "Maxspeed": "340km/h",
+      "Gia": 5000000,
+      "image": "https://i.ytimg.com/vi/NkiyAZ63RT8/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ducati V4r",
+      "Mota": "Sport Bike",
+      "Maxspeed": "340km/h",
+      "Gia": 2000000,
+      "image": "https://images.ctfassets.net/x7j9qwvpvr5s/4hhElmCR9miEu00sao8uyC/5c864e1b5eaef0fb753dccfac1807bc8/Panigale-V4R-Red-MY19-Ambience-09-Gallery-1920x1080.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ferrari 488",
+      "Mota": "Supper car",
+      "Maxspeed": "340km/h",
+      "Gia": 5000000,
+      "image": "https://car-images.bauersecure.com/pagefiles/81811/480x270/ferrari_488_pista_20.jpg"
+    },
+    {
+      "id": 6,
+      "name": "BMW 1000RR",
+      "Mota": "Sport Bike",
+      "Maxspeed": "340km/h",
+      "Gia": 2000000,
+      "image": "https://www.cycleworld.com/sites/cycleworld.com/files/images/2019/03/cyw_s1000fr_static.jpg"
+    },
+    {
+      "id": 7,
+      "name": "ZX10R",
+      "Mota": "Sport Bike",
+      "Maxspeed": "340km/h",
+      "Gia": 2500000,
+      "image": "https://bazzaz.net/wp-content/uploads/2019/08/2019-Kawasaki-Ninja-ZX-10R-KRT.jpg"
+    },
+    {
+      "image": "https://i.pinimg.com/originals/71/5f/ac/715fac0d67c77820f224ead16b815ed6.png",
+      "Gia": 5000000,
+      "Maxspeed": "320km/h",
+      "Mota": "Supper Car",
+      "name": "Koenigsegg",
+      "id": 8
+    }
+  ],
+  "air": [
+    {
+      "id": 1,
+      "name": "Trực thăng ngắm cảnh",
+      "Mota": "Quý khách có cơ hội trải nghiệm một Đà Nẵng rất khác từ trên cao với 12-15 phút bay trên chiếc trực thăng Airbus EC130T2 hiện đại và sang trọng",
+      "Gia": 1200000,
+      "image": "https://tour.dulichvietnam.com.vn/uploads/image/du-lich-da-nang/truc-thang1.JPG"
+    },
+    {
+      "id": 2,
+      "name": "Nhảy dù ngắm cảnh",
+      "Mota": "Quý khách có cơ hội trải nghiệm một Đà Nẵng rất khác từ trên cao với 12-15 phút bay trên dù lượn cùng với huấn luyện viên chuyên nghiệp, Xuất phát từ đỉnh núi Sơn Trà và đáp tại biển Đà Nẵng",
+      "Gia": 1200000,
+      "image": "https://images.foody.vn/BlogsContents/32603710_1089025097921353_4700698747485552640_n(1).jpg"
+    },
+    {
+      "id": 3,
+      "name": "Trực thăng ngắm cảng",
+      "Mota": "Quý khách có cơ hội trải nghiệm một Đà Nẵng rất khác từ trên cao với 12-15 phút bay trên chiếc trực thăng Airbus EC130T2 hiện đại và sang trọng",
+      "Gia": 1200000,
+      "image": "https://tour.dulichvietnam.com.vn/uploads/image/du-lich-da-nang/truc-thang1.JPG"
+    },
+    {
+      "id": 4,
+      "name": "Trực thăng ngắm cảng",
+      "Mota": "Quý khách có cơ hội trải nghiệm một Đà Nẵng rất khác từ trên cao với 12-15 phút bay trên chiếc trực thăng Airbus EC130T2 hiện đại và sang trọng",
+      "Gia": 1200000,
+      "image": "https://tour.dulichvietnam.com.vn/uploads/image/du-lich-da-nang/truc-thang1.JPG"
+    },
+    {
+      "name": "testaaaaaa",
+      "Mota": "test",
+      "Gia": 3,
+      "image": "https://i.pinimg.com/originals/71/5f/ac/715fac0d67c77820f224ead16b815ed6.png",
+      "id": 5
+    }
+  ],
+  "kh": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "adress": "admin",
+      "phone": "0123456789",
+      "day": "1",
+      "monney": "1"
+    },
+    {
+      "name": "testccc",
+      "adress": "test",
+      "email": "test",
+      "monney": 3,
+      "id": 2
+    },
+    {
+      "name": "R1M",
+      "adress": "QT",
+      "email": "anhson@gmail.com",
+      "phone": "0129",
+      "day": "3",
+      "monney": 9000000,
+      "id": 3
+    },
+    {
+      "name": "sơn",
+      "adress": "QB",
+      "email": "a",
+      "phone": "091",
+      "day": "3",
+      "monney": 6000000,
+      "id": 4
+    },
+    {
+      "name": "khdichvu",
+      "adress": "a",
+      "day": "3",
+      "email": "a",
+      "phone": "12354",
+      "monney": 9,
+      "id": 5
+    },
+    {
+      "name": "khhome",
+      "adress": "a",
+      "day": "5",
+      "email": "a",
+      "phone": "1235",
+      "monney": 7500000,
+      "id": 6
+    }
+  ]
+}

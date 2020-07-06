@@ -1,0 +1,39 @@
+<form action="" method="POST" role="form">
+    <legend>Edit Phong</legend>
+    <div class="form-group">
+        <label for="">Name</label>
+        <input type="text" class="form-control" [(ngModel)]="phong.name" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+        <label for="">Adress</label>
+        <input type="text" class="form-control" [(ngModel)]="phong.adress" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+        <label for="">Acreage</label>
+        <input type="text" class="form-control" [(ngModel)]="phong.Dientich" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+        <label for="">Describe</label>
+        <input type="text" class="form-control" [(ngModel)]="phong.Mota" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+        <label for="">Introduction</label>
+        <textarea class="form-control" rows="3" [(ngModel)]="phong.Gioithieu" [ngModelOptions]="{standalone: true}"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="">Price</label>
+        <input type="number" class="form-control" [(ngModel)]="phong.Gia" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+        <label for="">Categorize</label>
+        <input type="text" class="form-control" [(ngModel)]="phong.Loaihomestay" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+        <label for="">Image</label>
+        <input type="text" class="form-control" [(ngModel)]="phong.image" [ngModelOptions]="{standalone: true}">
+    </div>
+    
+    <button type="button" class="btn btn-primary" (click)="onEditPhong()">SAVE</button>
+    
+
+</form>

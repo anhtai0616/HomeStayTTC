@@ -1,0 +1,17 @@
+<h1>Chào mừng đến với HomeStay!</h1>
+<p>Đặt chỗ ở, homestay, cho thuê xe, trải nghiệm và nhiều hơn nữa trên HomeStay</p>
+
+<div class="container-fluid padding">
+
+    <div class="row padding">
+        <div class="col-xs-6 col-sm-4 col-md-4 col-lg-3" *ngFor="let item of homestay">
+            <img src="{{item.image}}"
+                alt="">
+            <a [routerLink]="['/home',item.id]" >
+                <h3>{{item.name}}</h3>
+            </a>
+            <p>Ưu đãi 50%</p>
+        </div>
+    </div>
+
+</div>

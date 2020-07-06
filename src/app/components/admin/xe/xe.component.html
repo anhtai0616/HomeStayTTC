@@ -1,0 +1,39 @@
+<app-admin></app-admin>
+<div class="panel panel-primary">
+    <div class="panel-heading">
+          <h3 class="panel-title">Xe - Admin</h3>
+    </div>
+    <div class="panel-body">
+          
+          <button type="button" class="btn btn-danger" [routerLink]="['/admin/xe/addxe']">Add Xe</button>
+          
+          <table class="table table-bordered table-hover">
+              <thead>
+                  <tr>
+                      <th></th>
+                      <th>Name</th>
+                      <th>Describe</th>
+                      <th>Price</th>
+                      <th>Action</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr *ngFor="let item of car; let i = index">
+                      <td>{{i+1}}</td>
+                      <td>{{item.name}}</td>
+                      <td>{{item.Mota}}</td>
+                      <td>{{item.Gia}}</td>
+                      <td>
+                          
+                          <button type="button" class="btn btn-success"[style.margin-right.px]="10" [routerLink]="['/admin/xe',item.id,'editxe']" routerLinkActive="router-link-active" >Edit</button>
+                          
+                          <button type="button" class="btn btn-danger" (click)="onDeleteCar(item.id)">Delete</button>
+                          
+                          
+                      </td>
+                  </tr>
+              </tbody>
+          </table>
+          
+    </div>
+</div>
